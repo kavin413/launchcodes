@@ -1,0 +1,18 @@
+h6 {
+    font-size: 2em;
+    color: rgba(153, 0, 255, 0.75);
+    font-weight: 600;
+}
+
+#myh3n1 {
+    font-size: larger;
+    font-style: italic;
+    color: crimson;
+}
+
+.Myh3n1 {
+    font-weight: bold;
+    font-style: italic;
+    color: darkgreen;
+    font-size: 4em;
+}
